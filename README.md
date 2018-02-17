@@ -1,8 +1,6 @@
 # README
 
-Simple Inventory App
-
-Things you may want 
+Simple Inventory App 
 
 * Ruby v2.5.0
 * Rails v5.1.4
